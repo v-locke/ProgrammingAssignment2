@@ -20,3 +20,5 @@ cacheSolve <- function(x, ...) {
         ## Answer: CacheSolve calculates the inverse of the special "matrix" that is
         ## created by makeCacheMatrix. The cacheSolve function should get the
         ## inverse from the cache as long as the inverse was computed.
+
+git add "C:\\Users\\elisa\\OneDrive\\R Notes\\ProgrammingAssignment2\\ProgrammingAssignment2\\cachematrix.R"
